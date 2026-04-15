@@ -108,8 +108,8 @@ http://localhost:8501
 
 ## 📈 Evaluation Metrics
 
-- MAE (Mean Absolute Error)
-- RMSE (Root Mean Squared Error)
+- MAE (Mean Absolute Error) = 0.05253
+- RMSE (Root Mean Squared Error) = 0.0718
 
 ---
 
