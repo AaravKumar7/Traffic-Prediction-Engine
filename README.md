@@ -92,8 +92,8 @@ This will:
 streamlit run dashboard.py
 
 Then open:
-http://localhost:8501
-
+[http://localhost:8501
+](https://traffic-prediction-system-ht2f3utgdmqp7zioei9mnz.streamlit.app/)
 ---
 
 ## 🧠 Model Details
